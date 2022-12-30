@@ -1,4 +1,5 @@
 # Frontend Mentor - Social proof section
+Live Link - https://social-proof-section-by-az.netlify.app/
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
